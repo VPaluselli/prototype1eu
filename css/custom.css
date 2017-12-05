@@ -1,3 +1,4 @@
 #home .row > div {
   border: ridge;
+  margin: 20px
 }
