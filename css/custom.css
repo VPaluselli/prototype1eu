@@ -3,7 +3,7 @@
   margin: 5px;
 }
 .body{
-    background-image: url ("images\1.jpg");
+    background-image: url("images\1.jpg");
     background-size: 110%;
     background-repeat: no-repeat;
     background-position-y: 66px;
