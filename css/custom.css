@@ -8,6 +8,7 @@ body{
     background-repeat: no-repeat;
     background-position-y: 66px;
     background-attachment: fixed;
+    opacity: 0.50;
 }
 nav{
     background-color: #003399;
