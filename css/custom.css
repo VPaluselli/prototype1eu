@@ -9,3 +9,10 @@ body{
     background-position-y: 66px;
     background-attachment: fixed;
 }
+nav{
+    background-color: blue;
+}
+
+.nav-link{
+  
+}
