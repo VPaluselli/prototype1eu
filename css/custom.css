@@ -11,6 +11,11 @@ body{ width: 100%;
    background-attachment: fixed;
   opacity: 0.1;
 }
+
+navbar-toggler{
+  background-color: blue
+}
+  
 nav{
     background-color: #003399;
 }
