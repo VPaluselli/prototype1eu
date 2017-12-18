@@ -20,16 +20,7 @@ nav{
     background-color: #003399;
 }
 
-#background-element{
-  width: 100%;
-  
-   background-image: url("../images/1.jpg");
-   background-size: 110%;
-   background-repeat: no-repeat;
-   background-position-y: 66px;
-   background-attachment: fixed;
-  opacity: 0.1;
-}
+
 .nav-link{
   
 }
