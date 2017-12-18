@@ -2,8 +2,14 @@
   border-style: solid;
   margin: 5px;
 }
-body{ <-#background kppoeren>
-   
+body{ width: 100%;
+  
+   background-image: url("../images/1.jpg");
+   background-size: 110%;
+   background-repeat: no-repeat;
+   background-position-y: 66px;
+   background-attachment: fixed;
+  opacity: 0.1;
 }
 nav{
     background-color: #003399;
